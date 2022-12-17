@@ -1,0 +1,5 @@
+name: Domination
+version: 1.0
+author: Speccy
+main: fr.speccy.domination.Main
+description: Domination game
